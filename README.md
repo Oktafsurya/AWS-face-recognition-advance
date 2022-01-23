@@ -10,7 +10,7 @@ The prototype was conceived to address a specific use case, which is alerting ba
 
 Here's the prototype's conceptual architecture:
 
-![Architecture](doc/serverless_pipeline_arch_2.png)
+![Architecture](doc/aws-face-recognition-flow.jpg)
 
 Let's go through the steps necessary to get this prototype up and running. If you are starting from scratch and are not familiar with Python, completing all steps can take a few hours.
 
